@@ -1,0 +1,100 @@
+<html>
+    <head>
+      <title>Hello World</title>
+
+      <meta charset="utf-8">
+      <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+
+    <body>
+
+      <iframe width="400" height="315" src="https://www.youtube.com/embed/WYeFqSjvGaY?si=D9AdaCVJO3sXxy30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen align="right"></iframe>
+
+
+      <h1>Hello World</h1>
+
+      <h2>A few facts about the work we live in</h2>
+
+      <img src="The_Earth.jpg" alt="" width="400">
+
+      <p>Earth is the third planet from the Sun and is the largest of the terrestrial planets. The Earth is the only planet in our solar system not to be named after a Greek or Roman deity. The Earth was formed approximately 4.54 billion years ago and is the only known planet to support life.</p>
+
+      <hr>
+        <h3>About the Earth</h3>
+        <ul>
+          <li>Equatorial Diameter:	12,756 km</li> 
+          <li>Polar Diameter:	12,714 km</li>
+          <li> Mass:	5.97 × 10^24 kg</li>
+          <li> Orbit Distance:	149,598,262 km (1 AU)</li>
+          <li> Orbit Period:	365.24 days</li>
+          <li> Surface Temperature: -88 to 58°C</li>
+          <li> Moons:	<a href="https://space-facts.com/the-moon/" target="_blank"> The Moon</a> </li>
+
+        </ul>
+
+      <hr>
+
+        <ol>
+          <h3>Top 3 facts about the Earth</h3>
+
+          <li>The Earth’s rotation is gradually slowing.
+            This deceleration is happening almost imperceptibly, at approximately 17 milliseconds per hundred years, although the rate at which it occurs is not perfectly uniform. This has the effect of lengthening our days, but it happens so slowly that it could be as much as 140 million years before the length of a day will have increased to 25 hours.</li>
+          <li>Earth has a powerful magnetic field.
+            This phenomenon is caused by the nickel-iron core of the planet, coupled with its rapid rotation. This field protects the Earth from the effects of solar wind.</li>
+          <li>The Earth is the densest planet in the Solar System.
+            This varies according to the part of the planet; for example, the metallic core is denser than the crust. The average density of the Earth is approximately 5.52 grams per cubic centimetre.</li>
+
+
+        </ol>
+
+        <hr>
+
+        <table>
+
+          <thead>
+
+            <tr>
+              <th>Name</th>
+              <th>Radius</th>
+              <th>Average <br>Temperature</th>
+            </tr>
+            
+
+
+          </thead>
+
+          <tbody>
+            <tr>
+
+              <td>Mars</td>
+              <td>3,403km</td>
+              <td>-46&deg;</td>
+
+            </tr>
+
+            <tr>
+
+              <td>Venus</td>
+              <td>6,052km</td>
+              <td>462&deg;</td>
+            </tr>
+
+
+          </tbody>
+
+        </table>
+         
+        <hr>
+
+        <form action="https://space-facts.com/earth/">
+
+          <p>Want to know More!</p>
+
+          <p><input type="submit" value="Click Here!"></p>
+
+        </form>
+        
+
+    </body>
+</html>
